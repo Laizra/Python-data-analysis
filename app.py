@@ -25,3 +25,11 @@ num2 = input("Enter another num: ")
 result = float(num1) + float(num2)
 
 print(result)
+# -----------------------mad libs game---------------------
+color = input("Enter color: ")
+plural_noun = input("Enter plural noun: ")
+someone = input("Enter someone you love: ")
+
+print("Roses are " + color)
+print(plural_noun + " are maybe blue")
+print("I love " + someone)
