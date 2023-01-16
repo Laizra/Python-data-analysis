@@ -1,2 +1,2 @@
 # Python
-Nara's Personal List of ouTube videos that Actually Work
+Nara's Personal List of YouTube videos that Actually Work
