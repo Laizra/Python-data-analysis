@@ -11,3 +11,17 @@ print(phrase.replace("Giraffe", "Goose"))
 print("\"Giraffe\nAcademy\"")
 
 print(pow(4, 6))
+""" multiple
+ line 
+ comments"""
+# single line comments, if i press enter while selector in middle
+# comment divides and hash adds automatically
+
+name = input("Enter name: ")
+print("Hello, " + name + "!")
+
+num1 = input("Enter num: ")
+num2 = input("Enter another num: ")
+result = float(num1) + float(num2)
+
+print(result)
