@@ -17,3 +17,11 @@ def say_hi(name, age):
 
 say_hi("Derek", "19")
 say_hi("Steve", "20")
+
+
+def cube(num):
+    return num*num*num
+
+
+result = cube(4)
+print(result)
