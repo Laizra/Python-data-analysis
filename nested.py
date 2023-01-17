@@ -25,3 +25,9 @@ def translate(phrase):
 
 
 print(translate(input("Enter phrase: ")))
+# ---------except----------
+try:
+    number = int(input("Enter a number: "))
+    print(number)
+except ValueError as err:
+    print(err)
