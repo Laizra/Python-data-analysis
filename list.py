@@ -25,3 +25,15 @@ def cube(num):
 
 result = cube(4)
 print(result)
+# ----------------------if statements------------------------
+is_blue = False
+is_pink = True
+
+if is_blue and is_pink:
+    print("is blue and pink")
+elif is_blue and not (is_pink):
+    print("is blue but not pink")
+elif not (is_blue) and is_pink:
+    print("is not blue but is pink")
+else:
+    print("not blue nor pink")
