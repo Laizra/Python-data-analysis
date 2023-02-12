@@ -1,2 +1,3 @@
 # Python
-Nara's Personal List of YouTube videos that Actually Work
+NPLOYTVTAW
+Multiple Python projects, especially data analysis. 
